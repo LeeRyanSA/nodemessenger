@@ -3,5 +3,5 @@ This is the repository for the Heroku version of Node Messenger, which was previ
 
 URL: https://nodemessenger.herokuapp.com
 
-Created with help from OofPirate (https://github.com/OofPirate) and vcszanelien (https://github.com/vcszanelien)
+Created with help from OofPirate (https://github.com/LeeRyanSA) and vcszanelien (https://github.com/vcszanelien)
 Thank you so much guys!
